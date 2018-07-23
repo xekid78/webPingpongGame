@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: "Century Gothic";
+  font-size: 16px;
+}
+#container {
+  text-align: center;
+  margin: 5px auto;
+}
+#mycanvas {
+  background: #AAEDFF;
+}
+#btn {
+  margin: 3px auto;
+  width: 200px;
+  padding: 5px;
+  background: #00AAFF;
+  color: #FFFFFF;
+  border-radius: 3px;
+  cursor: pointer;
+}
+#btn:hover {
+  opacity: 0.8;
+}
